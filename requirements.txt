@@ -1,0 +1,11 @@
+# Molecule AI workspace runtime — shared infrastructure
+molecule-ai-workspace-runtime>=0.1.0
+
+# LangGraph adapter specific deps
+langchain-core==1.2.26
+langchain-anthropic==1.4.0
+langchain-openai==1.1.12
+langchain-google-genai>=2.1.0
+langgraph==1.1.6
+langfuse==4.0.6
+e2b-code-interpreter==1.0.3
